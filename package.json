@@ -10,7 +10,7 @@
 	},
 
 	"dependencies":{
-		"express": "3.3.x",
+		"express": "4.21.1",
 		"bitcoin": "1.7.0"
 	},
 
